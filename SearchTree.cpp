@@ -138,4 +138,10 @@ int main()
             cout << "5. exit" << endl;
             cout << "\nenter your choice: " << endl;
 
+            char ch;
+            cin >> ch;
+
+            cout << endl;
+
+            switch (ch)
 
